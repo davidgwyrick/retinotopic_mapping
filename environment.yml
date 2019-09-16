@@ -1,4 +1,4 @@
-name: retinotopic_mapping
+name: vMap
 channels:
   - defaults
 dependencies:
